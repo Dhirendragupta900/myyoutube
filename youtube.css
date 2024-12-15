@@ -1,0 +1,22 @@
+.sidenav
+{
+    height: 820px;
+}
+.photo
+{
+    height: 830px; 
+}
+img
+{
+    border-radius: 50px;
+}
+.con
+{
+    background-color: black;
+}
+.cont
+{
+    border-radius: 20px;
+    height: 40px;
+    margin-top: 10px;
+}
